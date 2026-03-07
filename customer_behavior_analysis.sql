@@ -29,7 +29,7 @@ select * from customer
 select shipping_type, ROUND(AVG(purchase_amount::numeric), 2) 
 from customer
 where shipping_type in ('Standard', 'Express')
-group by shipping_type
+group by shipping_type;
 
 
 --Q5. Do subscribed customers spend more? Compare average spend and total revenue
