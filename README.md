@@ -1,4 +1,4 @@
-# End-to-End Data Analytics Project — Retail Customer Behavior Analysis
+# Retail Sales Data Pipeline & Customer Behavior Analysis
 
 ## Overview
 
